@@ -1,0 +1,15 @@
+Packages to install
+-------------------
+AOCC from https://www.amd.com/en/developer/aocc.html
+   Prerequisites:
+      libstdc++6
+      libncurses-dev
+      zlib1g
+      libxml2
+      libquadmath0
+      python
+      python3-pip
+            pip3 pygments
+	    pip3 pyyaml
+
+Intel oneAPI DPC++/C++ from https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html
