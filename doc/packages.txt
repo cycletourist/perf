@@ -1,6 +1,8 @@
 Packages to install
 -------------------
-stream
+lmbench
+
+stream from github
 
 AOCC from https://www.amd.com/en/developer/aocc.html
    Prerequisites:
