@@ -1,5 +1,7 @@
 Packages to install
 -------------------
+stream
+
 AOCC from https://www.amd.com/en/developer/aocc.html
    Prerequisites:
       libstdc++6
