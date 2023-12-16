@@ -16,4 +16,9 @@ AOCC from https://www.amd.com/en/developer/aocc.html
 
 Intel oneAPI DPC++/C++ from https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html
 
+Phoronix Test suite from: https://www.phoronix-test-suite.com/?k=downloads
+   Prerequisites:
+      php-xml
+      php-cli
+
 spack following instructions at: https://unixcop.com/how-to-install-spack-on-ubuntu-22-04-lts/
